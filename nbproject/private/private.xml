@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/StatePatternExample/src/statepatternexample/GumballMachine.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/StatePatternExample/src/ConcreteState/SoldState.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/StatePatternExample/src/ConcreteState/NoQuarterState.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/StatePatternExample/src/statepatternexample/State.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/StatePatternExample/src/ConcreteState/HasQuarterState.java</file>
+            <file>file:/C:/Users/h02ad/OneDrive/Documents/NetBeansProjects/StatePatternExample/src/ConcreteState/SoldOutState.java</file>
+        </group>
+    </open-files>
+</project-private>
