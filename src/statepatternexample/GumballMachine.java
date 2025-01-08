@@ -63,4 +63,32 @@ public class GumballMachine {
             count--;
         }
     }
+     // Main method to simulate the Gumball Machine
+    public static void main(String[] args) {
+        GumballMachine gumballMachine = new GumballMachine(5);
+
+        System.out.println("Initial state: " + gumballMachine.getCount() + " gumballs in the machine.");
+
+        // Insert a quarter and turn the crank
+        gumballMachine.insertQuarter();
+        gumballMachine.turnCrank();
+
+        // Insert another quarter and turn the crank
+        gumballMachine.insertQuarter();
+        gumballMachine.turnCrank();
+
+        // Eject a quarter
+        gumballMachine.ejectQuarter();
+
+        // Turn crank without a quarter
+        gumballMachine.turnCrank();
+
+        // Refill the machine with more gumballs
+        System.out.println("Refilling the machine with 2 more gumballs.");
+        gumballMachine = new GumballMachine(7);
+
+        // Insert a quarter and turn the crank again
+        gumballMachine.insertQuarter();
+        gumballMachine.turnCrank();
+    }
 }
